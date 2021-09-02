@@ -6,7 +6,7 @@ knitr::opts_chunk$set(
 
 ## ----setup--------------------------------------------------------------------
 #Install the github package
-devtools::install_github("kserkcho/SCEM") 
+#devtools::install_github("kserkcho/SCEM") 
 library(SCEM)
 
 ## -----------------------------------------------------------------------------

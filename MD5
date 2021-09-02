@@ -1,4 +1,4 @@
-6e77666acebc4c63eec039d672c352bb *DESCRIPTION
+aa4c2903237560f02dc9da75f1de99d1 *DESCRIPTION
 5190d650075dc4c0a5e17b92b58549bc *NAMESPACE
 c34c09d64ad0e9d3cc31c2ae93fce5da *R/EBIC.R
 3ee720424481101c82e98965718c33e8 *R/EstTrend.R
@@ -15,13 +15,13 @@ daf0a83a89b208cfba52694a274d1100 *R/sineFit.R
 64fb6382e4d5d12d4bd2104747315d0d *R/sine_OLS.R
 a21a2f3491357e561954dd737c047958 *R/sine_initial.R
 a56ed6b0a94f05bd115e1ec7e2b1de5c *README.md
-82895da2576b41daf0b6ed2e1b44d66f *build/SCEM.pdf
+d12f81cbac004558732384265d8e3b11 *build/SCEM.pdf
 92f1b44ba15923224e9c250afb395176 *build/vignette.rds
 aa6ddd5ce6287c608ba8115608ceb10a *data/armenia.rda
 d59113d484a7978eedf2ade509d95f26 *inst/CITATION
-afbb34fba09153fffc0e72b336eaa751 *inst/doc/SCEM_example.R
-3902d826b34db3e0f1de8927ab129d3f *inst/doc/SCEM_example.Rmd
-d4a32b5aa76b116ce9b08b52b73ce90c *inst/doc/SCEM_example.html
+d89a2dbaa1e29ccb56c7a287b642a140 *inst/doc/SCEM_example.R
+91d56f181165f605140b465682c412d6 *inst/doc/SCEM_example.Rmd
+da9b88733a257cc9da24d8969fecaf03 *inst/doc/SCEM_example.html
 e19daf087baad1a474f330054345bd47 *inst/extdata/armenia.csv
 2d89fbd38f865f15c07d0944058c8a20 *man/EBIC.Rd
 1a5f707218b6fdcc7f4c6116c33ca5a4 *man/EstTrend.Rd
@@ -41,4 +41,4 @@ eee2043e184c851dce448ba674bad22a *man/sine_OLS.Rd
 18babf58775faf6575a6b89e4d06bf10 *man/sine_initial.Rd
 7226307a7e450b80e7489ed11dfc3758 *tests/testthat.R
 225e3812b897786befc574f805c96dc2 *tests/testthat/test-makeFits.R
-3902d826b34db3e0f1de8927ab129d3f *vignettes/SCEM_example.Rmd
+91d56f181165f605140b465682c412d6 *vignettes/SCEM_example.Rmd
